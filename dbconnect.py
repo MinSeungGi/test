@@ -11,4 +11,3 @@ try:
     users.insert(doc)
 except:
     print"insert failed",sys.exc_info()[0]
-     
